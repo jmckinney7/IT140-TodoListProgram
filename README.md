@@ -15,3 +15,9 @@ Type: Console Application
 
 ### Timeline
 02/24/2024 - 02/26/2024 (~2 days)
+
+## License / Usage
+This project is for demonstration and educational purposes only.  
+No license is granted for reuse, modification, or distribution of the code.  
+
+You are welcome to view the code and study it, but please do **not** copy or use it in your own projects without permission.
